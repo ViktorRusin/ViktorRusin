@@ -1,10 +1,10 @@
 [![Header](https://github.com/ViktorRusin/ViktorRusin/blob/master/assets/Header.png)](https://vk.com/vik_rusin)
 
-## I'm a beginner QA Engineer
+# I'm a beginner QA Engineer
 
-My CV
+## My CV
 
-Tools
+## Tools
 
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136BE1)
 ![Redmine](https://img.shields.io/badge/Redmine-090909?style=for-the-badge&logo=redmine&logoColor=CA1613)
@@ -14,6 +14,6 @@ Tools
 ![AndroidStudio](https://img.shields.io/badge/androidstudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3AD07D)
 ![CharlesProxy](https://img.shields.io/badge/charlesproxy-090909?style=for-the-badge&logo)
 
-Testing documentation
+## Testing documentation
 
-Follow me
+## Follow me
