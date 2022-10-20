@@ -17,3 +17,7 @@
 ## Testing documentation
 
 ## Follow me
+
+[![Telegram](https://img.shields.io/badge/telegram-090909?style=for-the-badge&logo=telegram&logoColor=136BE1)](https://t.me/rusinviktor)
+[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=CA1613)](https://www.instagram.com/viktorqae/)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/vik_rusin)
