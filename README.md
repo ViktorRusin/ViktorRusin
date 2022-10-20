@@ -4,7 +4,7 @@ About me
 
 My CV
 
-Languages and tools
+Languages 
 
 Testing documentation
 
